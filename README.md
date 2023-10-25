@@ -1,2 +1,3 @@
 # The MOON HQ
+We will be live soon...
 https://moonhq.org
