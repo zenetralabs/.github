@@ -1,5 +1,3 @@
-## MOON HQ👋
-
-**Hey 👋, welcome to the M🌙🌙N:**
-
-👩‍💻 Useful resources - can be found on our [website](https://moonhq.org)        
+# You just landed on the moon
+Welcome! ... we will be online soon    
+https://moonhq.org
