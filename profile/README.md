@@ -1,3 +1,3 @@
-# The Lab
-Welcome! we are online   
+# Welcome to the Labs
+We are online   
 https://zenetralabs.com
